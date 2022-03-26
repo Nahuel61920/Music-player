@@ -22,10 +22,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img : '../img/Stan.jpg',
+        img : 'img/Stan.jpg',
         name : 'Stan Long',
         artist : 'Eminem ft Dido',
-        music : '../music/Stan Long.mp3'
+        music : 'music/Stan Long.mp3'
     },
     {
         img : '../img/Criminal.jpg',
