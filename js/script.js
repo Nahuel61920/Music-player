@@ -28,22 +28,22 @@ const music_list = [
         music : 'music/Stan Long.mp3'
     },
     {
-        img : '../img/Criminal.jpg',
+        img : 'img/Criminal.jpg',
         name : 'Smooth Criminal',
         artist : 'Michael Jackson',
-        music : '../music/Criminal.mp3'
+        music : 'music/Criminal.mp3'
     },
     {
-        img : '../img/SeeYouAgain.jpg',
+        img : 'img/SeeYouAgain.jpg',
         name : 'See You Again',
         artist : 'Wiz Khalifa ft Charlie Puth',
-        music : '../music/SeeYouAgain.mp3'
+        music : 'music/SeeYouAgain.mp3'
     },
     {
-        img : '../img/7Year.jpg',
+        img : 'img/7Year.jpg',
         name : '7 Year',
         artist : 'Lukas Graham',
-        music : '../music/7Year.mp3'
+        music : 'music/7Year.mp3'
     }
 ];
 
